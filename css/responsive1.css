@@ -1,0 +1,17 @@
+@media only screen and(max-width: 379px){
+    .logo img{
+        display: flex;
+        position: absolute;
+        right: 30px;
+        top: 20px;
+    }
+    .latar h1{
+        position: absolute;
+        top: 15%;
+        left: 18%;
+    }
+    .latar img{
+        position: absolute;
+        top: 22%;
+        right: 12%;
+    }
